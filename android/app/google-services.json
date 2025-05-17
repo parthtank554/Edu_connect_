@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "659360301138",
+    "project_id": "storeecomapp",
+    "storage_bucket": "storeecomapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659360301138:android:e4bbaf15deb170775a1f8b",
+        "android_client_info": {
+          "package_name": "com.example.flutterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659360301138-44glgb8mhl1n0r3dpan9ii7jk1te8n5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfIUHnwNv6RuZDWBNY_nRo3jqBPa5Vn3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659360301138-44glgb8mhl1n0r3dpan9ii7jk1te8n5m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659360301138-5jjvp3v5d489s7f32ur3b2j48ph1ld3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
