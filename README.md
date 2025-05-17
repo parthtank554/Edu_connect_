@@ -4,13 +4,15 @@ This platform offers seamless course enrollment, quizzes, certifications, course
 
 **✨ Core Functionalities**
 **👤 User Role**
+
 **🎓 Enroll in Courses**: Explore and enroll in a variety of educational courses.
 
 **📝 Attempt Quizzes:** Take quizzes related to the enrolled courses to assess your learning.
 
 **🏆 Earn Certificates:** Receive certificates after successfully completing courses and quizzes.
 
-**👩‍🏫 Instructor Role**
+**👩‍🏫 Instructor Role :** 
+
 **➕ Add New Courses:** Create and publish new courses for users.
 
 **🎥 Upload Video Links**: Enhance course materials by adding video links.
@@ -20,6 +22,7 @@ This platform offers seamless course enrollment, quizzes, certifications, course
 **🏅 Attach Certificates:** Link certificates to course completions.
 
 **🛠️ Admin Role**
+
 **🗂️ Manage Users:** Monitor and control user accounts and activities.
 
 **📚 Manage Instructors and Courses:** Approve, update, or remove instructors and their courses.
@@ -27,6 +30,7 @@ This platform offers seamless course enrollment, quizzes, certifications, course
 **🏛️ Full Platform Management:** Oversee all operations and ensure the system runs smoothly.
 
 **📦 Tech Stack**
+
 **⚙️ Frontend:** ()
 
 **🖥️ Backend:** (Dart)
