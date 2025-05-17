@@ -1,16 +1,34 @@
-# flutterpro
+**📚 EduConnect App**
+Welcome to EduConnect — a complete e-learning solution connecting Users, Instructors, and Admins! 🚀
+This platform offers seamless course enrollment, quizzes, certifications, course management, and full system control.
 
-A new Flutter project.
+**✨ Core Functionalities**
+**👤 User Role**
+**🎓 Enroll in Courses**: Explore and enroll in a variety of educational courses.
 
-## Getting Started
+**📝 Attempt Quizzes:** Take quizzes related to the enrolled courses to assess your learning.
 
-This project is a starting point for a Flutter application.
+**🏆 Earn Certificates:** Receive certificates after successfully completing courses and quizzes.
 
-A few resources to get you started if this is your first Flutter project:
+**👩‍🏫 Instructor Role**
+**➕ Add New Courses:** Create and publish new courses for users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**🎥 Upload Video Links**: Enhance course materials by adding video links.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**📄 Manage Course Content**: Edit, update, or remove courses as needed.
+
+**🏅 Attach Certificates:** Link certificates to course completions.
+
+**🛠️ Admin Role**
+**🗂️ Manage Users:** Monitor and control user accounts and activities.
+
+**📚 Manage Instructors and Courses:** Approve, update, or remove instructors and their courses.
+
+**🏛️ Full Platform Management:** Oversee all operations and ensure the system runs smoothly.
+
+**📦 Tech Stack**
+**⚙️ Frontend:** ()
+
+**🖥️ Backend:** (Dart)
+
+**🗄️ Database:** (Firebase Console)
